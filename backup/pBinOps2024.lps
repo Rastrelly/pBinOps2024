@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="pBinOps2024.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ubinops.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uBinOps"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="272"/>
+        <CursorPos X="32" Y="290"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="214" Column="39" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="217" Column="26" TopLine="211"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="218" Column="26" TopLine="212"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="211" Column="39" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="246" Column="40" TopLine="230"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="268" Column="24" TopLine="260"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="295" Column="3" TopLine="284"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="219" Column="32" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="303" Column="12" TopLine="287"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="44" Column="48" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="46" Column="13" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="52" Column="38" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="51" Column="38" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="50" Column="38" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="49" Column="38" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="48" Column="38" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="17" Column="28"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="129" Column="23" TopLine="114"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="15" Column="42"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="129" Column="23" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="157" Column="15" TopLine="144"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="164" Column="32" TopLine="160"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="271" Column="40" TopLine="261"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="282" Column="24" TopLine="267"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="281" Column="48" TopLine="267"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="282" Column="48" TopLine="268"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="281" Column="48" TopLine="267"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="55" Column="38" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="311" Column="31" TopLine="298"/>
+      </Position>
+      <Position>
+        <Filename Value="ubinops.pas"/>
+        <Caret Line="286" TopLine="265"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
